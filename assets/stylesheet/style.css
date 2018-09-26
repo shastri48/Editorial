@@ -119,7 +119,7 @@ img{
 .left{
 	float:left;
 	width: 25%;
-	overflow-y: unset;
+	/* overflow-y:  */
 	background: #f2f2f2;
 }
 .right{
