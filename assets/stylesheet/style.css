@@ -119,10 +119,12 @@ img{
 .left{
 	float:left;
 	width: 25%;
+	overflow-y: unset;
 	background: #f2f2f2;
 }
 .right{
 	float: right;
+	overflow-y: scroll;
 	width: 75%;
 }
 .main-container{
