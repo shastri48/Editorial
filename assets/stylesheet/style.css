@@ -289,6 +289,20 @@ img{
 .last{
   border-bottom: none;
 }
+.sec__2{
+	border-bottom: 1px solid rgba(210, 215, 217, 0.75);
+}
+.sec__3{
+	border-bottom: 1px solid rgba(210, 215, 217, 0.75);
+}
+.sec__3__icon{
+	display: inline-block;
+	color: #f56a6a;
+}
+.sec__3__div p{
+	display: inline-block;
+}
+
 
 /*
 =================================
