@@ -211,7 +211,6 @@ img{
 	object-fit: cover;																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															;
 }
 
-
 /*
 =================================
 				ICON SECTION						
@@ -330,6 +329,10 @@ img{
 	display: grid;
 	grid-template-columns: 1fr;
 	grid-template-rows: 1fr 1fr;
+}
+.hero__sec img{
+	grid-row: 1;
+	grid-column: 1;																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																														;
 }
 .img__sec__grid{
 	grid-template-columns: 1fr;
